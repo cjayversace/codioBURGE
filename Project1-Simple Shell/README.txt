@@ -1,7 +1,7 @@
 Quash: A Custom Command Line Shell
 
 Charlie J. Seigler
-
+Sydney Stokes
 
 ---
 
