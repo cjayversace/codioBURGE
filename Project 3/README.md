@@ -1,3 +1,6 @@
+// Charlie Seigler & Sydney Stokes
+
+
 # Creating C programs in Codio
 
 ### Make a new file
