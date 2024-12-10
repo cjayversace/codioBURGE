@@ -1,4 +1,4 @@
-// Charlie Seigler & Sydney Stokes
+Charlie Seigler & Sydney Stokes
 
 
 # Creating C programs in Codio
